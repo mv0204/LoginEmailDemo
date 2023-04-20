@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558841846849",
+    "project_id": "loginemaildemo-59b86",
+    "storage_bucket": "loginemaildemo-59b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558841846849:android:63c27c2a6685a0cc8ffac0",
+        "android_client_info": {
+          "package_name": "com.example.loginemaildemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558841846849-01cg350pla5p1veo79m4rsu2l46g2u5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYGfKQmREjnL0l1ZSFwnvJMe17glcUTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558841846849-01cg350pla5p1veo79m4rsu2l46g2u5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
